@@ -6,7 +6,7 @@
 ```javascript
 const maya = {
   working: [Javascript, HTML, CSS, Java, PHP, ReactJS, Bootstrap],
-  learning: [Redux, SASS, Flutter, NodeJS],
+  learning: [Redux, SASS, Flutter, NodeJS, Angular],
   goal: "web and mobile application developer"
 }
 ```
