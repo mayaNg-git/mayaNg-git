@@ -1,12 +1,12 @@
 
 <h1>Ahoy! I'm Maya, nice to meet you <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1> </br> 
-<p><em> Computer programming student living in Ottawa, Canada</em></p>
+<p><em> Software Developer in Ontario, Canada </em></p>
 
  ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">  About me   
 ```javascript
 const maya = {
-  working: [Javascript, HTML, CSS, Java, PHP, ReactJS, Bootstrap],
-  learning: [Redux, SASS, Flutter, NodeJS, Angular],
-  goal: "web and mobile application developer"
+  skils: [Typescript, HTML, CSS, Java, PHP, ReactJS, Angular, NodeJS, Flutter],
+  interested: [compilers, embedded]
+  goal: "full stack developer"
 }
 ```
