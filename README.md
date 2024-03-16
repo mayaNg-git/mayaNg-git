@@ -5,7 +5,7 @@
  ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">  About me   
 ```javascript
 const maya = {
-  skils: [Typescript, HTML, CSS, Java, PHP, ReactJS, Angular, NodeJS, Flutter],
+  skils: [Typescript, HTML, CSS, Java, PHP, ReactJS, Angular, NodeJS, React Native],
   interested: [compilers, embedded]
   goal: "full stack developer"
 }
